@@ -40,3 +40,5 @@ build/
 # Ignore all environment files
 .env
 .env.*
+
+Frontend/node_modules
